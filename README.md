@@ -22,9 +22,7 @@ Some Screenshots of the Web Application to get basic idea how it works -
 ### Police Dashboard
 ![Screenshot (281)](https://user-images.githubusercontent.com/95924396/232316398-634c27cd-113a-4800-bf4d-62cdb762b857.png)
 
-### Police after scanning individual's face
-![Screenshot (282)](https://user-images.githubusercontent.com/95924396/232317189-99c5ced5-443f-45a7-9039-b83761bc2090.jpg)
-
 ### Scanning face of Unregistered User
 ![Screenshot (283)](https://user-images.githubusercontent.com/95924396/232316455-d78a928b-bb41-4301-a13e-153d4054536c.png)
+
 
