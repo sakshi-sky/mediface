@@ -16,13 +16,12 @@ Some Screenshots of the Web Application to get basic idea how it works -
 ### Hospital Dashboard
 ![Screenshot (279)](https://user-images.githubusercontent.com/95924396/232316363-70e21a73-aa34-4870-af40-1d525daeb3d1.png)
 
-### Hospital after scanning patient's face
-![Screenshot (280)](https://user-images.githubusercontent.com/95924396/232317512-893d448d-4607-4a6a-8f74-ef7052874ba1.jpg)
 
 ### Police Dashboard
 ![Screenshot (281)](https://user-images.githubusercontent.com/95924396/232316398-634c27cd-113a-4800-bf4d-62cdb762b857.png)
 
 ### Scanning face of Unregistered User
 ![Screenshot (283)](https://user-images.githubusercontent.com/95924396/232316455-d78a928b-bb41-4301-a13e-153d4054536c.png)
+
 
 
