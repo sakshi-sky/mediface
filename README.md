@@ -1,6 +1,6 @@
-# GFG--HealthTech
+# MediFace
 
-Some Screenshots of the APplication to get basic idea how it works -
+Some Screenshots of the Web Application to get basic idea how it works -
 
 
 ### Login-Page
@@ -27,3 +27,4 @@ Some Screenshots of the APplication to get basic idea how it works -
 
 ### Scanning face of Unregistered User
 ![Screenshot (283)](https://user-images.githubusercontent.com/95924396/232316455-d78a928b-bb41-4301-a13e-153d4054536c.png)
+
